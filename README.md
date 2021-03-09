@@ -1,2 +1,2 @@
 # JetBrainsAcademy
-JetBrains Academy code that I've been asked to publich
+JetBrains Academy code that I've been asked to publish
